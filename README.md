@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on [https://www.olawolff.com/](https://www.olawolff.com/)
 
-- 🌱 I’m currently learning **Typescript, Golang, Flutter and Clean Architecture**
+- 🌱 I’m currently learning **Typescript, Golang and Clean Architecture**
 
 - 📫 How to reach me **eduardo.bvaillant@gmail.com**
 
