@@ -1,8 +1,6 @@
-<h3 align="center">A passionate developer from Brazil</h3>
-
 - 🔭 I’m currently working on [https://www.olawolff.com/](https://www.olawolff.com/)
 
-- 🌱 I’m currently learning **Typescript, Golang and Clean Architecture**
+- 🌱 I’m currently learning **Typescript, Python, Golang and Clean Architecture**
 
 - 📫 How to reach me **eduardo.bvaillant@gmail.com**
 
