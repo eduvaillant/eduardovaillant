@@ -1,6 +1,6 @@
 - 🔭 I’m currently working on [https://www.linkapi.solutions/](https://www.linkapi.solutions/)
 
-- 🌱 I’m currently learning **Typescript, Python, Golang and Clean Architecture**
+- 🌱 I’m currently learning **Typescript, Python, Golang, Clean Architecture and DevOps**
 
 - 📫 How to reach me **eduardo.bvaillant@gmail.com**
 
